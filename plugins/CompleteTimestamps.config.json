@@ -1,0 +1,19 @@
+{
+	"changelog": {
+		"currentversion": "1.4.5"
+	},
+	"choices": {
+		"creationDateLang": "$discord"
+	},
+	"settings": {
+		"changeForChat": true,
+		"changeForEdit": true,
+		"cutSeconds": false,
+		"displayDate": true,
+		"displayTime": true,
+		"forceZeros": false,
+		"otherOrder": false,
+		"showInChat": true,
+		"showInEmbed": true
+	}
+}

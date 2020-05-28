@@ -1,0 +1,13 @@
+{
+	"blacklist": [],
+	"changelog": {
+		"currentversion": "1.6.0"
+	},
+	"settings": {
+		"addClearButton": true,
+		"confirmClear": false,
+		"includeDMs": false,
+		"includeGuilds": true,
+		"includeMuted": false
+	}
+}

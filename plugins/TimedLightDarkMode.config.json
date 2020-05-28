@@ -1,0 +1,12 @@
+{
+	"changelog": {
+		"currentversion": "1.0.6"
+	},
+	"settings": {
+		"running": false
+	},
+	"values": {
+		"timer1": 25.146359943438256,
+		"timer2": 75
+	}
+}

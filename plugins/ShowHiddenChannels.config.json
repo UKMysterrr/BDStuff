@@ -1,0 +1,19 @@
+{
+	"blacklist": [],
+	"categorydata": {
+		"collapsed": [
+			"587960949613264958_hidden"
+		]
+	},
+	"changelog": {
+		"currentversion": "2.7.7"
+	},
+	"settings": {
+		"showAnnouncement": true,
+		"showForNormal": false,
+		"showStore": true,
+		"showText": true,
+		"showVoice": true,
+		"sortNative": false
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"amounts": {
+		"minAliasLength": 2
+	},
+	"changelog": {
+		"currentversion": "2.1.4"
+	},
+	"settings": {
+		"addAutoComplete": true,
+		"addContextMenu": true
+	}
+}

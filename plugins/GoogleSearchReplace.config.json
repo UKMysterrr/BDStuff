@@ -1,0 +1,25 @@
+{
+	"changelog": {
+		"currentversion": "1.2.7"
+	},
+	"engines": {
+		"Ask": true,
+		"Bing": true,
+		"DogPile": true,
+		"DuckDuckGo": true,
+		"Google": true,
+		"GoogleScholar": true,
+		"Quora": true,
+		"Qwant": true,
+		"Searx": true,
+		"UrbanDictionary": true,
+		"WolframAlpha": true,
+		"Yahoo": true,
+		"Yandex": true,
+		"YouTube": true,
+		"_all": true
+	},
+	"settings": {
+		"useChromium": false
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"changelog": {
+		"currentversion": "3.4.0"
+	},
+	"replaces": {
+		"blocked": "~~BLOCKED~~",
+		"censored": "$!%&%!&"
+	},
+	"settings": {
+		"addContextMenu": true,
+		"showMessageOnClick": true
+	}
+}

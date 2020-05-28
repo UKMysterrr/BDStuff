@@ -1,0 +1,18 @@
+{
+	"changelog": {
+		"currentversion": "1.9.3"
+	},
+	"notes": {
+		"@me": {
+			"705917927131447376": {
+				"706988972038946867": {
+					"addedat": 1588629713949,
+					"channel": "{\"id\":\"705917927131447376\",\"type\":3,\"name\":\"group family friendlyness\",\"topic\":\"\",\"position\":0,\"guild_id\":null,\"recipients\":[\"224595651332145163\",\"240042241064828928\",\"245994206965792780\",\"246305191794704386\",\"398887081629450241\",\"405830695244791808\",\"423585297448566794\",\"558194124390662154\",\"699987991958913025\"],\"rawRecipients\":[{\"avatar\":\"c9822b495daeab526fbaf17143b84548\",\"discriminator\":\"8646\",\"id\":\"224595651332145163\",\"public_flags\":64,\"username\":\"sureseven\"},{\"avatar\":\"f46977771ca09893f09066e48cdb6243\",\"discriminator\":\"1306\",\"id\":\"240042241064828928\",\"public_flags\":0,\"username\":\"Chimp Squid\"},{\"avatar\":\"a_bce6d36ceab4b0603e0ec6712b22bf7b\",\"discriminator\":\"7473\",\"id\":\"245994206965792780\",\"public_flags\":128,\"username\":\"Murrax2\"},{\"avatar\":\"9e38994accf3cf404132d39a142f50e4\",\"discriminator\":\"3499\",\"id\":\"246305191794704386\",\"public_flags\":256,\"username\":\"atomic_6urrito\"},{\"avatar\":\"7e14b8c1579aa8e3a1dba71a2b8938a6\",\"discriminator\":\"2542\",\"id\":\"398887081629450241\",\"public_flags\":0,\"username\":\"ayyycs\"},{\"avatar\":\"c62683fa9a5d58f35656c96a305da3cc\",\"discriminator\":\"0061\",\"id\":\"405830695244791808\",\"public_flags\":64,\"username\":\"Stage_Door\"},{\"avatar\":\"7fa318d67528f2c315edb73159644c58\",\"discriminator\":\"1147\",\"id\":\"423585297448566794\",\"public_flags\":0,\"username\":\"Mr.Bluesky\"},{\"avatar\":\"a8224a52eab4c2dbde3dc579ab0db421\",\"discriminator\":\"9433\",\"id\":\"558194124390662154\",\"public_flags\":0,\"username\":\"Atomix\"},{\"avatar\":\"b8fe62cae31f2bb0cc466f59dd3b90de\",\"discriminator\":\"9965\",\"id\":\"699987991958913025\",\"public_flags\":0,\"username\":\"tenori.taiga\"}],\"permissionOverwrites\":{},\"bitrate\":64000,\"userLimit\":0,\"ownerId\":\"246305191794704386\",\"icon\":\"b81830353bf23fae2e5b93c2c7ee4b09\",\"application_id\":null,\"nicks\":{},\"nsfw\":false,\"parent_id\":null,\"memberListId\":null,\"rateLimitPerUser\":0,\"originChannelId\":null,\"lastMessageId\":\"706875092327596112\",\"lastPinTimestamp\":\"2020-05-04T02:05:12.763000+00:00\"}",
+					"id": "706988972038946867",
+					"message": "{\"id\":\"706988972038946867\",\"type\":0,\"channel_id\":\"705917927131447376\",\"author\":{\"id\":\"699987991958913025\",\"username\":\"tenori.taiga\",\"usernameNormalized\":\"tenori.taiga\",\"discriminator\":\"9965\",\"avatar\":\"b8fe62cae31f2bb0cc466f59dd3b90de\",\"email\":null,\"verified\":false,\"bot\":false,\"system\":false,\"mfaEnabled\":false,\"mobile\":false,\"flags\":0,\"publicFlags\":0,\"premiumDiscriminator\":false,\"phone\":null},\"colorString\":null,\"nick\":null,\"content\":\"reece is a nigger\",\"attachments\":[],\"embeds\":[],\"mentions\":[],\"mentionRoles\":[],\"mentionChannels\":[],\"mentioned\":false,\"pinned\":false,\"mentionEveryone\":false,\"tts\":false,\"codedLinks\":[],\"giftCodes\":[],\"timestamp\":\"2020-05-04T22:01:46.154Z\",\"editedTimestamp\":null,\"state\":\"SENT\",\"nonce\":\"706988971623710720\",\"blocked\":false,\"call\":null,\"bot\":false,\"webhookId\":null,\"reactions\":[],\"application\":null,\"activity\":null,\"messageReference\":null,\"flags\":0,\"isSearchHit\":false}",
+					"timestamp": 1588629706154
+				}
+			}
+		}
+	}
+}
